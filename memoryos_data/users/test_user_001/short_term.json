@@ -1,0 +1,47 @@
+[
+  {
+    "user_input": "How to handle multi-turn conversations?",
+    "agent_response": "Multi-turn conversations require maintaining dialogue state and context memory.",
+    "timestamp": "2025-07-23 12:27:02"
+  },
+  {
+    "user_input": "How does MemoryOS work?",
+    "agent_response": "MemoryOS maintains long-term dialogue context through hierarchical memory management.",
+    "timestamp": "2025-07-23 12:27:02"
+  },
+  {
+    "user_input": "What's the difference between short-term and long-term memory",
+    "agent_response": "Short-term memory stores current conversations, while long-term memory saves important user information.",
+    "timestamp": "2025-07-23 12:27:03"
+  },
+  {
+    "user_input": "How to optimize memory retrieval?",
+    "agent_response": "You can use vector similarity search and semantic understanding to improve retrieval accuracy.",
+    "timestamp": "2025-07-23 12:27:04"
+  },
+  {
+    "user_input": "I want to contribute code",
+    "agent_response": "Welcome to contribute! You can start by reading documentation and solving issues.",
+    "timestamp": "2025-07-23 12:27:05"
+  },
+  {
+    "user_input": "What open source projects do you recommend?",
+    "agent_response": "I recommend following popular AI open source projects like Hugging Face and LangChain.",
+    "timestamp": "2025-07-23 12:27:05"
+  },
+  {
+    "user_input": "My interest is computer vision",
+    "agent_response": "Computer vision covers areas like image recognition and object detection.",
+    "timestamp": "2025-07-23 12:27:06"
+  },
+  {
+    "user_input": "Advice on choosing deep learning frameworks",
+    "agent_response": "Both PyTorch and TensorFlow are great. PyTorch is better for research, TensorFlow for production.",
+    "timestamp": "2025-07-23 12:27:07"
+  },
+  {
+    "user_input": "Thank you for your help!",
+    "agent_response": "You're welcome! I'm glad I could help you, looking forward to our next conversation.",
+    "timestamp": "2025-07-23 12:27:08"
+  }
+]
