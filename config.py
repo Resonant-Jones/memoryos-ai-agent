@@ -1,0 +1,8 @@
+# LLM Configuration
+LLM_PROVIDER = "openai"
+OPENAI_API_KEY = "YOUR_OPENAI_API_KEY"
+OPENAI_BASE_URL = ""
+
+# TTS Configuration
+TTS_PROVIDER = "google"
+GOOGLE_API_KEY = "YOUR_GOOGLE_API_KEY"
