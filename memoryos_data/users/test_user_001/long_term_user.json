@@ -1,0 +1,10 @@
+{
+  "user_profiles": {
+    "test_user_001": {
+      "data": "Error: Could not get response from LLM.",
+      "last_updated": "2025-07-23 12:27:06"
+    }
+  },
+  "knowledge_base": [],
+  "assistant_knowledge": []
+}
